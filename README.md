@@ -1,11 +1,17 @@
-### Hi there 👋, I'm Raphael Santos
-#### Software Developer and Aspiring Designer
-![Software Developer and Aspiring Designer](https://pbs.twimg.com/profile_banners/1235899558133104640/1611159343/1500x500)
 
+
+![Software Developer and Aspiring Designer](https://pbs.twimg.com/profile_banners/1235899558133104640/1611159343/1500x500)
+#I'm Raphael Santos
+## Software Developer and Aspiring Designer
+### Welcome To my Github!
 I'm Raphael from Brazil and I'm a software developer at Philips. I am en enthusiastic programmer that is still learning. I have some experience in Python, Javascript and java and also with some frameworks like Django, React (yeah, yeah, I know it's not a framework but oh well) and Angular.
 In my spare time I like studying design and coming up with a lot of crazy projects! :metal:
 
-Skills: **HTML & CSS / PYTHON / JS / DJANGO / REACT**
+###Skills:
+* :computer:  HTML, CSS & JS 
+* :atom:  REACT**
+* :snake: PYTHON 
+* :boot: DJANGO
 
 - 🔭 I’m currently working on this page (and in other thousand projects :sunglasses:) 
 - 🌱 I’m currently learning React & Design :D 
