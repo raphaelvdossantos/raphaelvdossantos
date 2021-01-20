@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Raphael
+#### Software Developer and Aspiring Designer
+![Software Developer and Aspiring Designer](https://pbs.twimg.com/profile_banners/1235899558133104640/1611159343/600x200)
 
-<!--
-**raphaelvdossantos/raphaelvdossantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Raphael from Brazil and I'm a software developer at Philips. I am en enthusiastic programmer that is still learning. I have some experience in Python, Javascript and java and also with some frameworks like Django, React (yeah, yeah, I know it's not a framework but oh well) and Angular.
+I my spare time I like studying design and coming up with a lot of crazy projects!
 
-Here are some ideas to get you started:
+Skills: HTML & CSS / PYTHON / JS / DJANGO / REACT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
