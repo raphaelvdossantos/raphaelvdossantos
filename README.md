@@ -14,8 +14,8 @@ In my spare time I like studying design and coming up with a lot of crazy projec
 * :boot: DJANGO
 
 ## Projects:
-<img src="https://github.com/raphaelvdossantos/raphaelvdossantos/blob/main/Peek%202021-01-26%2013-05.gif" width="256"/>
-<a href="https://github.com/raphaelvdossantos/ObsCPU">:atom: REACT - Obs. da CPU Website</a>
+<img src="https://github.com/raphaelvdossantos/raphaelvdossantos/blob/main/Peek%202021-01-26%2013-05.gif" width="512"/>
+<a text-decoration="none" href="https://github.com/raphaelvdossantos/ObsCPU">:atom: REACT - Obs. da CPU Website</a>
 
 ###  General Stuff:
 - 🔭 I’m currently working on this page (and in other thousand projects :sunglasses:) 
