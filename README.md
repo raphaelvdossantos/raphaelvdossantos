@@ -13,10 +13,16 @@ In my spare time I like studying design and coming up with a lot of crazy projec
 * :snake: PYTHON 
 * :boot: DJANGO
 
+## Projects:
+<img src="https://github.com/raphaelvdossantos/raphaelvdossantos/blob/main/Peek%202021-01-26%2013-05.gif" width="256"/>
+<a href="https://github.com/raphaelvdossantos/ObsCPU">:atom: REACT - Obs. da CPU Website</a>
+
 ###  General Stuff:
 - 🔭 I’m currently working on this page (and in other thousand projects :sunglasses:) 
 - 🌱 I’m currently learning React & Design :D 
 - 📫 How to reach me: rvsantos97@gmail.com 
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelvdossantos)](https://github.com/anuraghazra/github-readme-stats)
