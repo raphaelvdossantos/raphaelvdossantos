@@ -14,8 +14,11 @@ In my spare time I like studying design and coming up with a lot of crazy projec
 * :boot: DJANGO
 
 ## Projects:
-<img src="https://github.com/raphaelvdossantos/raphaelvdossantos/blob/main/Peek%202021-01-26%2013-05.gif" width="512"/>
-<a text-decoration="none" href="https://github.com/raphaelvdossantos/ObsCPU">:atom: REACT - Obs. da CPU Website</a>
+<div><img src="https://github.com/raphaelvdossantos/raphaelvdossantos/blob/main/Peek%202021-01-26%2013-05.gif" width="512"/>
+<h4><a text-decoration="none" href="https://github.com/raphaelvdossantos/ObsCPU">Obs. da CPU Website</a></h4>
+<p> Project built with React and Flask for price monitoring of CPUs.<br>
+  It uses Twitter data to update the prices with the Tweepy library to connect with the Twitter API</p>
+  <div>
 
 ###  General Stuff:
 - 🔭 I’m currently working on this page (and in other thousand projects :sunglasses:) 
@@ -28,13 +31,13 @@ In my spare time I like studying design and coming up with a lot of crazy projec
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelvdossantos)](https://github.com/anuraghazra/github-readme-stats)
 
 <ul >
-  <listyle="list-style-type:none">
+  <li>
     <a href='https://github.com/raphaelvdossantos'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
     </li>
-  <listyle="list-style-type:none">
+  <li>
     <a href='https://www.linkedin.com/in/raphaelvsantos'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
   </li>
-  <listyle="list-style-type:none">
+  <li>
     <a href='https://www.behance.net/raphaelsantos9'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'></a>
   </li>
 </ul>
