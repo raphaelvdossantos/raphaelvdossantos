@@ -14,23 +14,20 @@ In my spare time I like studying design and coming up with a lot of crazy projec
 * :boot: DJANGO
 
 ## Projects:
-<div>
-    <img src="https://github.com/raphaelvdossantos/raphaelvdossantos/blob/main/ObsdaCPU.gif" width="512"/>
-  <div>
-    <h4><a text-decoration="none" href="https://github.com/raphaelvdossantos/ObsCPU">Obs. da CPU Website</a></h4>
-      <p> Project built with React and Flask for price monitoring of CPUs.<br>
-      It uses Twitter data to update the prices with the Tweepy library to connect with the Twitter API</p>
-  </div>
- </div>
+
+<img src="https://github.com/raphaelvdossantos/raphaelvdossantos/blob/main/ObsdaCPU.gif" width="512"/>
+<h4><a text-decoration="none" href="https://github.com/raphaelvdossantos/ObsCPU">Obs. da CPU Website</a></h4>
+<p> Project built with React and Flask for price monitoring of CPUs.<br>
+It uses Twitter data to update the prices with the Tweepy library to connect with the Twitter API</p>
+<br>
+<br>
+
+<img src="https://github.com/raphaelvdossantos/raphaelvdossantos/blob/main/MaratonaDiscover.gif" width="512"/>
+<h4><a text-decoration="none" href="https://github.com/raphaelvdossantos/MaratonaDiscover">Discover Marathon from RocketSeat</a></h4>
+<p> Project built to explore HTML, CSS and JS principles.</p>
+
  
- <div>
-    <img src="https://github.com/raphaelvdossantos/raphaelvdossantos/blob/main/MaratonaDiscover.gif" width="512"/>
-  <div>
-    <h4>
-    <a text-decoration="none" href="https://github.com/raphaelvdossantos/MaratonaDiscover">Discover Marathon from RocketSeat</a></h4>
-    <p> Project built to explore HTML, CSS and JS principles.</p>
-  </div>
- </div>
+    
 
 ###  General Stuff:
 - 🔭 I’m currently working on this page (and in other thousand projects :sunglasses:) 
